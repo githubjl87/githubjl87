@@ -1,3 +1,6 @@
+![image](https://github.com/githubjl87/githubjl87/assets/131764331/50be07a8-3461-4e9f-a8bc-b9bacc1bd09c)
+
+
 <h1 align="center">Hi 👋, I'm James 😃</h1>
 <h3 align="center">A passionate full-stack developer living in Japan.</h3>
 
